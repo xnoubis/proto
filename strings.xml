@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlowVoice</string>
+    <string name="tap_to_speak">Tap to speak</string>
+    <string name="listening">Listening...</string>
+    <string name="processing">Processing...</string>
+    <string name="error_mic">Microphone access required</string>
+    <string name="error_model">Failed to load speech model</string>
+    <string name="copied">Copied to clipboard</string>
+    <string name="mode_offline">Offline</string>
+    <string name="mode_hybrid">Hybrid</string>
+    <string name="mode_cloud">Cloud</string>
+</resources>
